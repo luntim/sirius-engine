@@ -1,0 +1,11 @@
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\libs\glm\detail\glm.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\glm.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\libs\imgui\imgui.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\imgui.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\libs\imgui\imgui_demo.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\imgui_demo.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\libs\imgui\imgui_draw.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\imgui_draw.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\libs\imgui\imgui_sdl.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\imgui_sdl.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\libs\imgui\imgui_widgets.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\imgui_widgets.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\AssetStore\AssetStore.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\AssetStore.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\ECS.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Game\Game.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\Game.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Logger\Logger.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\Logger.obj
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Main.cpp;C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\x64\Debug\Main.obj

@@ -1,0 +1,42 @@
+﻿  Game.cpp
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(21,49): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(21,49): warning C4244:         with
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(21,49): warning C4244:         [
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(21,49): warning C4244:             T=float
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(21,49): warning C4244:         ]
+  (compiling source file 'src/Game/Game.cpp')
+  
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(22,49): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(22,49): warning C4244:         with
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(22,49): warning C4244:         [
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(22,49): warning C4244:             T=float
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\MovementSystem.h(22,49): warning C4244:         ]
+  (compiling source file 'src/Game/Game.cpp')
+  
+C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(100,40): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/Game/Game.cpp')
+      C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(100,40):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\Systems\RenderSystem.h(28,46):
+          see reference to function template instantiation 'TComponent &Entity::GetComponent<SpriteComponent>(void) const' being compiled
+          with
+          [
+              TComponent=SpriteComponent
+          ]
+          C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(235,19):
+          see reference to function template instantiation 'TComponent &Registry::GetComponent<SpriteComponent>(Entity) const' being compiled
+          with
+          [
+              TComponent=SpriteComponent
+          ]
+          C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(220,9):
+          see reference to class template instantiation 'Pool<SpriteComponent>' being compiled
+          C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(100,6):
+          while compiling class template member function 'int Pool<SpriteComponent>::GetSize(void) const'
+              C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(186,2):
+              see the first reference to 'Pool<SpriteComponent>::GetSize' in 'Registry::AddComponent'
+              C:\Users\Timothy\code\C++\SiriusEngine\SiriusEngine\src\ECS\ECS.h(225,12):
+              see the first reference to 'Registry::AddComponent' in 'Entity::AddComponent'
+  
+  SiriusEngine.vcxproj -> C:\Users\Timothy\code\C++\SiriusEngine\x64\Debug\SiriusEngine.exe
+  0 File(s) copied
